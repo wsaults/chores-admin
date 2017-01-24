@@ -13,4 +13,14 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
+// require excanvas
+// require flot-data
+// require jquery.flot
+// require bootstrap
+// require sb-admin-2
+// require morris
+// require metisMenu
+// require raphael
+// require cable
+// require morris-data
 //= require_tree .
