@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  root 'static_pages#signIn', as: :signIn
+  root 'static_pages#login', as: :login
 
   # get '/signIn', to: 'static_pages#signIn', as: :signIn
   get '/dashboard', to: 'static_pages#dashboard', as: :dashboard

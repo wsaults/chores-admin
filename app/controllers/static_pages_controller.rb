@@ -1,5 +1,5 @@
 class StaticPagesController < ApplicationController
-  def signIn
+  def login
   end
 
   def dashboard
